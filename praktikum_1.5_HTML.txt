@@ -1,0 +1,30 @@
+Nama	: Hesti Retnosari
+Nama	: Maria Andini
+NIM	: 14117041
+Kelas	: Pemrogramman Web RC
+
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda,
+   Pernakah terjadi error ketika ada kesalahan kode? 
+   Jawab :
+   Ketika ada kesalahan pada kode HTML biasanya kode masih bisa dijalankan dan tidak
+   ada warning error dari kode HTML hanya saja kode tidak berfungsi apabila 
+   terjadi kesalahan kode berupa inisiasi, apabila kesalahan kode hanya berupa tag
+   penutup biasanya kode HTML masih berfungsi dan menghasilkan hasil yang sesuai
+
+2. Cobalah ubah nilai meta refresh 
+   <meta HTTP-EQUIV="REFRESH" content="5; url=http://google.co.id"> 
+   apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen?
+   Jawab : 
+   Jika nilai meta refresh diganti dengan sintaks diatas maka halaman web kita
+   akan merefresh selama 5 detik lalu menuju halaman google.co.id
+   Meta dokumen berguna untuk mengalihkan halaman 
+   website yang tidak terpakai ke halaman website baru. 
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+   Jawab :
+    <thead> element digunakan untuk mengelompokkan konten yang terletak 
+    di kepala (atas) sebuah tabel. Di dalam element <thead> tersebut, 
+    harus ditulis element <tr> yang menunjukkan table row atau baris sebuah table.
+    <thead> element juga digunakan bersamaan dengan element <tbody> 
+    yang menunjukkan isi tabel. td digunakan untuk membuat isi dari baris 
+    sedangkan th digunakan untuk membuat judul pada sebuah tabel seperti nomor 
+    dan nama serta ditandai dengan huruf bold.
