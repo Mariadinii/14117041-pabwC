@@ -1,0 +1,77 @@
+body{
+    background-image: url(gambar/bg.gif);
+    background-size: 100%;
+}
+.pembungkus{
+    width: 1000px;
+    border: 1px #70666c;
+    margin: 0px auto;
+}
+header{
+    width: 1000px;
+    background-color: rgba(252, 206, 240,0.8);
+    height: 150px;
+    line-height: 200px;
+
+}
+h1{
+    font-size: 75px;
+}
+h3{
+    font-style: italic;
+}
+@font-face{
+    font-family: "myfont1";
+    src:url(font/myfont1.otf);
+}
+@font-face{
+    font-family: "myfont2";
+    src:url(font/myfont2.ttf);
+}
+@font-face{
+    font-family: "myfont3";
+    src: url(font/myfont3.ttf);
+}
+.font{
+    font-family: "myfont1";
+}
+
+nav{
+    width: 1000px;
+    height: 50px;
+    background: rgba(252, 206, 240,0.9);
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    list-style: none;
+    font-family: "myfont2";
+}
+nav ul li{
+    display: inline-block;
+    line-height: 50px;
+}
+nav ul li a{
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: block;
+}
+nav ul li a:hover{
+    background: rgb(250, 97, 209);
+}
+.konten{
+    background: rgba(255, 255, 255, 0.7);
+    font-family: "myfont3";
+    font-size: 25px;
+}
+footer{
+    width: 1000px;
+    height: 50px;
+    background-color: rgba(252, 206, 240,0.8);
+    color: black;
+    text-align: center;
+    line-height: 50px;
+    font-family: "myfont2";
+}
